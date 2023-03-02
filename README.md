@@ -18,7 +18,7 @@ jika pada saat proses instalasi terdapat error karena versi dari PHP yang tidak 
 ## Instalasi
 #### Via Git
 ```bash
-git clone https://github.com/EbenEzerManurung/perbaikan-bengkel-laravel-8.git
+git clone https://github.com/EbenEzerManurung/Transaksi_sederhana-PHP-MySQL.git
 ```
 
 ### Setup Aplikasi
