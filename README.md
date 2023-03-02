@@ -33,6 +33,10 @@ simpan folder tsb didalam htdocs xampp
 
 ```bash
 jalankan program pada browser
+
+akun: 
+  'username' => 'eben' 
+  'password'=> '123'
 ```
 
 
